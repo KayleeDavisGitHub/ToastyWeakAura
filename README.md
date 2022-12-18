@@ -1,2 +1,9 @@
 # ToastyWeakAura
 Files for the "Toasty" Weak Aura
+
+From Video:
+https://youtu.be/acy4G7AGIHw
+
+
+Add images into folders as follows:
+![image](https://user-images.githubusercontent.com/26849634/208323540-04a6e55a-59d7-459c-aced-73a832858d45.png)
